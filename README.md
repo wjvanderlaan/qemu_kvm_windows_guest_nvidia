@@ -41,9 +41,17 @@ Run netplwiz , remove checkbox "Users must enter a user name and password to use
 Prevent sending of collected data:  
 Go to task scheduler (type "tasks" in search box), Microsoft , Windows , Application Experience , right click task "Microsoft Compatibility Appraiser" , disable.  
 
-Disable adn stop services "Xbox Accessory Management Service" , "Xbox Live Auth Manager" , "Xbox Live Game Save" and "Xbox Live Networking Service".  
+Disable adn stop services  
+> - Xbox Accessory Management Service  
+> - Xbox Live Auth Manager  
+> - Xbox Live Game Save  
+> - Xbox Live Networking Service
 
 Remove apps :  
->- 
->- 
+>- Office
+>- Onedrive
+>- Onenote
+>- Wheather
+>- Sticky notes
+>- f
 
