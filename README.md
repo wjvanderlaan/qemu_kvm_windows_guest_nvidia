@@ -55,3 +55,5 @@ Remove apps :
 >- Sticky notes
 >- f
 
+Disable everything in Settings , Privacy
+
